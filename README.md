@@ -5,7 +5,7 @@
 Alexander cortes cordoba <br />
 Miguel Angel Morales Ortiz <br />
 Diana Sofia Santos <br />
-Maria Paulña cardenas <br />
+Maria Paula cardenas <br />
   <p align="center">
 Programació<pn, II-2025 <br />
 GDSPROC <br />
