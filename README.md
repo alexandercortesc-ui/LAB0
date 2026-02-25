@@ -30,7 +30,7 @@ En esta práctica se diseñó un programa interactivo en Python que solicita al 
 La práctica refuerza conceptos fundamentales de programación como estructuración algorítmica, manipulación de datos y análisis de resultados. Además, fomenta en los estudiantes la capacidad de pensar en términos de datos, procesos y salidas, lo que constituye una habilidad esencial en disciplinas tecnológicas y científicas.
 En síntesis, este ejercicio permitió consolidar conocimientos sobre el manejo de listas, ciclos, condicionales y funciones en Python, demostrando cómo la programación puede transformar un problema sencillo en un sistema capaz de generar información estadística útil.
 # punto 3 Funciones:
-# codigo sin IA [tarea1.py] con IA [tareaIA1.py]
+# codigo sin IA [tarea1.py](tarea1.py) con IA [tareaIA1.py](tareaIA1.py)
 En esta práctica se implementó una función en Python que recibe como argumento un número entre 1 y 12, correspondiente a la suma deseada de dos dados. La función ejecuta lanzamientos consecutivos, generando valores aleatorios hasta que se obtiene la combinación solicitada. Una vez alcanzado el resultado, retorna la cantidad de intentos necesarios para lograrlo, proporcionando así una medida del esfuerzo requerido en la simulación.
 
 La práctica permitió a los estudiantes experimentar con la aleatoriedad y el control de flujo, reforzando conceptos esenciales de programación como la modularidad, el uso de funciones y la aplicación de estructuras de control. Además, mostró cómo estos elementos pueden trasladarse a contextos lúdicos y matemáticos, facilitando la comprensión de fenómenos probabilísticos y su implementación computacional.
