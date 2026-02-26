@@ -19,12 +19,12 @@ El desarrollo de esta práctica fortalece la capacidad de los estudiantes para e
 
 # Código de lanzamiento de dados [IA1.py](AI1.py)  
 # Punto 1 condicionales:
-# Código de IA del prunto 1 [IA2.py](AI2.py)  sin IA 
+# Código de IA del prunto 1 [IA2.py](AI2.py)  sin IA  [condi.py](condi.py)
 En esta primera actividad se implementó un programa en Python con un enfoque práctico en la simulación de eventos aleatorios. El procedimiento inició con la solicitud del nombre del jugador, lo que permitió personalizar la ejecución y vincular al usuario con el resultado del programa. Posteriormente, se programó la simulación del lanzamiento de dos dados mediante la generación de números aleatorios, representando de manera digital el comportamiento real de este tipo de juegos.
 
 Este ejercicio permitió a los estudiantes comprender cómo integrar entradas, procesos y salidas dentro de un programa sencillo, aplicando conceptos de lógica de programación en un contexto lúdico. Además, se evidenció la relevancia de trabajar con aleatoriedad y condicionales, elementos fundamentales para el desarrollo de simulaciones, juegos y aplicaciones interactivas.
 # Punto 2 ciclos y arreglos:
-# codigo del sengudo punto con IA [IA3.py](AI3.py) sin IA 
+# codigo del sengudo punto con IA [IA3.py](AI3.py) sin IA  [C.A1.py](C.A1.py),  [CA2.py](CA2.py)
 En esta práctica se diseñó un programa interactivo en Python que solicita al usuario el nombre del jugador y el número de lanzamientos a realizar. Con base en estos datos, el sistema ejecuta la cantidad de lanzamientos indicada y almacena los resultados en una lista para su posterior análisis. Los valores obtenidos se clasifican en tres categorías: “presadas”, “5-6” y “pate-perro (1-2)”, calculando el porcentaje de ocurrencias en cada una de ellas.
 
 La práctica refuerza conceptos fundamentales de programación como estructuración algorítmica, manipulación de datos y análisis de resultados. Además, fomenta en los estudiantes la capacidad de pensar en términos de datos, procesos y salidas, lo que constituye una habilidad esencial en disciplinas tecnológicas y científicas.
